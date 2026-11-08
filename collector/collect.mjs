@@ -12,7 +12,11 @@ const MAX_DAYS_OLD = 30;
 // ---------- Rules for deciding what counts as a junior games job ----------
 
 const JUNIOR = /\b(junior|jr\.?|graduate|grad|entry[- ]level|trainee|intern|internship|apprentice|apprenticeship|associate|placement|year in industry)\b/i;
-const QA_ENTRY = /\b(qa|quality assurance|game|games|localisation|localization|compliance)\s+(tester|testing)\b|\btester\b/i;
+const QA_ENTRY = /\b(qa|quality assurance|game|games|localisation|localization|compliance)\s+(tester|testing)\b|\btester\b|\bqa (analyst|technician)\b|\bfunctional qa\b/i;
+// Companies whose whole business is games, so their jobs count even if the advert never says "game".
+const GAMES_COMPANIES = /\b(keywords studios|pole to win|ptw|testronic|universally speaking|lionbridge games|transperfect games|globalstep|sumo digital|sumo group|dambuster|bulkhead|rare ltd|codemasters|playground games|ubisoft|frontier developments|team17|rebellion|lockwood publishing|jagex|creative assembly|splash damage|firesprite|media molecule|rockstar|hutch|kwalee|unit 2 games)\b/i;
+// Jobs that need a language other than English (mostly localisation QA).
+const LANGUAGE = /\b(french|german|spanish|italian|portuguese|brazilian|dutch|czech|polish|russian|ukrainian|turkish|arabic|hebrew|japanese|korean|chinese|mandarin|cantonese|thai|vietnamese|indonesian|swedish|norwegian|danish|finnish|greek|hungarian|romanian|lqa|linguistic|bilingual)\b/i;
 const SENIOR = /\b(senior|snr|sr\.?|lead|principal|director|head of|staff|vp|chief|expert|architect)\b/i;
 const GAMES = /\b(game|games|gaming|video ?game|unreal|unity|playstation|xbox|nintendo|console)\b/i;
 const GAMBLING = /\b(casino|betting|gambling|igaming|i-gaming|slots?|bingo|lottery|sportsbook|wagering)\b/i;
@@ -33,7 +37,7 @@ function isJunior(title) {
 function isGames(title, description, company = "") {
   const text = `${title} ${description} ${company}`;
   if (GAMBLING.test(text)) return false;
-  return GAMES.test(text);
+  return GAMES.test(text) || GAMES_COMPANIES.test(company);
 }
 
 const DISCIPLINES = [
@@ -82,6 +86,7 @@ function makeJob({ title, company, location, region, remote, salaryMin, salaryMa
     region: region || "",
     remote: Boolean(remote),
     level: levelOf(title),
+    language: LANGUAGE.test(title),
     discipline: disciplineOf(title),
     salaryMin: salaryMin ? Math.round(salaryMin) : null,
     salaryMax: salaryMax ? Math.round(salaryMax) : null,
@@ -99,6 +104,8 @@ const ADZUNA_SEARCHES = [
   "games intern", "game internship", "games trainee", "games apprentice",
   "entry level game", "associate game", "game tester", "games tester", "qa tester games",
   "junior unity developer", "junior unreal", "junior game artist", "junior game designer",
+  "qa tester", "functional qa tester", "video game tester", "game qa", "games qa",
+  "keywords studios", "testronic", "pole to win", "universally speaking",
 ];
 
 async function fromAdzuna() {
@@ -214,3 +221,4 @@ if (jobs.length === 0) {
 
 await writeFile(outFile, JSON.stringify({ updated: new Date().toISOString(), count: jobs.length, jobs }, null, 2) + "\n");
 console.log(`Saved ${jobs.length} jobs to jobs.json`);
+
