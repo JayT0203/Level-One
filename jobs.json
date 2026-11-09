@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-09T06:29:15.930Z",
+  "updated": "2026-11-09T22:22:37.731Z",
   "count": 13,
   "jobs": [
+    {
+      "id": "noir-net-developer-graduate-junior-monument-central-london",
+      "title": ".NET Developer, Graduate / Junior",
+      "company": "Noir",
+      "location": "Monument, Central London",
+      "region": "London",
+      "remote": false,
+      "level": "Graduate",
+      "language": false,
+      "discipline": "Programming",
+      "salaryMin": 35000,
+      "salaryMax": 45000,
+      "posted": "2026-11-09T13:12:41.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5959163265?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": ".NET Developer, Graduate / Junior - Computer Gaming Company - London (Tech stack: Graduate / Junior .NET Developer, .NET 10.0, ASP.NET Core, C# 14, Azure, Angular 21, Vue.js, TypeScript, Multithreading, RESTful, ASP.NET Core Web API, EF Core 10.0, Programmer, Full Stack Engineer, Architect, Graduate / Junior .NET Developer) Having sold over 100 million games consoles and over 500 million games…"
+    },
     {
       "id": "testronic-lqa-game-tester-with-dutch-london-uk",
       "title": "LQA Game Tester with Dutch",
@@ -69,23 +86,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5951486834?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
       "description": "TransPerfect Games is a leading provider of bespoke and flexible videogame services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and playtesting, player support and community management, cybersecurity and penetration testing, tool development, art design, game writing, GDPR consultancy, and voice-over…"
-    },
-    {
-      "id": "noir-net-developer-graduate-junior-london-uk",
-      "title": ".NET Developer, Graduate / Junior",
-      "company": "Noir",
-      "location": "London, UK",
-      "region": "London",
-      "remote": false,
-      "level": "Graduate",
-      "language": false,
-      "discipline": "Programming",
-      "salaryMin": 35000,
-      "salaryMax": 45000,
-      "posted": "2026-11-02T05:29:34.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252656?se=DCvUyAbc8RGtb-ALOrgmHw&utm_medium=api&utm_source=47351df2&v=66DD6B4A6F8C3851A0F11BFC564A8164273624D6",
-      "source": "Adzuna",
-      "description": ".NET Developer, Graduate / Junior - Computer Gaming Company - London (Tech stack: Graduate / Junior .NET Developer, .NET 10.0, ASP.NET Core, C# 14, Azure, Angular 21, Vue.js, TypeScript, Multithreading, RESTful, ASP.NET Core Web API, EF Core 10.0, Programmer, Full Stack Engineer, Architect, Graduate / Junior .NET Developer) Having sold over 100 million games consoles and over 500 million games…"
     },
     {
       "id": "tencent-games-research-operations-intern-london-uk",
