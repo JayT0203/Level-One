@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T06:45:59.829Z",
-  "count": 16,
+  "updated": "2026-11-13T19:42:53.180Z",
+  "count": 15,
   "jobs": [
     {
       "id": "frasers-group-trainee-commercial-manager-game-shirebrook-mansfield",
@@ -205,23 +205,6 @@
       "url": "https://careers.bulkhead.com/jobs/8592404-junior-environment-artist",
       "source": "Bulkhead careers",
       "description": "<p>As a <strong>Junior Environment Artist</strong> at <strong>BULKHEAD</strong>, you’ll be building on your foundational industry experience to help shape immersive and visually engaging environments. Working alongside more Senior team members, you’ll contribute to the creation of props, modular assets, and larger environment scenes that align with the project’s artistic and technical…"
-    },
-    {
-      "id": "tencent-ai-native-game-design-intern-london-uk",
-      "title": "AI-Native Game Design Intern",
-      "company": "Tencent",
-      "location": "London, UK",
-      "region": "London",
-      "remote": false,
-      "level": "Intern",
-      "language": false,
-      "discipline": "Design",
-      "salaryMin": null,
-      "salaryMax": null,
-      "posted": "2026-10-22T09:57:32.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5937648696?utm_medium=api&utm_source=47351df2",
-      "source": "Adzuna",
-      "description": "Business Unit About IEG Interactive Entertainment Group (IEG) is responsible for the R&D, operation, and development of the company's interactive entertainment business including games and eSports. Through online gaming, live broadcasts, and offline eSports, IEG assists the company in leading the global interactive entertainment market to create better interactive entertainment content…"
     },
     {
       "id": "tencent-llm-agent-research-intern-london-uk",
