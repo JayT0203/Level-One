@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:24:54.954Z",
+  "updated": "2026-11-15T06:32:47.568Z",
   "count": 14,
   "jobs": [
     {
@@ -86,6 +86,23 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5955542540?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
       "description": "Testronic is a global leader in Quality Assurance and technology services for the games and entertainment industries. We work with some of the world's leading game developers and publishers, providing Functional QA, Compliance QA, Localization QA, Compatibility QA, and other specialized services. With diverse teams across Europe, Asia, and North America, we foster an inclusive, collaborative…"
+    },
+    {
+      "id": "tencent-llm-agent-research-intern-london-uk",
+      "title": "LLM & Agent Research Intern",
+      "company": "Tencent",
+      "location": "London, UK",
+      "region": "London",
+      "remote": true,
+      "level": "Intern",
+      "language": false,
+      "discipline": "Other",
+      "salaryMin": null,
+      "salaryMax": null,
+      "posted": "2026-11-06T08:51:22.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5955440138?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": "Business Unit LIGHTSPEED STUDIOS is made up of passionate players who advance the art & science of game development through great stories, great gameplay, and advanced technology. We are focused on bringing next generation experiences to gamers who want to enjoy them anywhere, anytime, across multiple genres and devices. About the Hiring Team Lightspeed Tech Center is a R&D department under…"
     },
     {
       "id": "universally-speaking-czech-games-tester-in-liverpool-liverpool-merseyside",
@@ -188,23 +205,6 @@
       "url": "https://careers.bulkhead.com/jobs/8592404-junior-environment-artist",
       "source": "Bulkhead careers",
       "description": "<p>As a <strong>Junior Environment Artist</strong> at <strong>BULKHEAD</strong>, you’ll be building on your foundational industry experience to help shape immersive and visually engaging environments. Working alongside more Senior team members, you’ll contribute to the creation of props, modular assets, and larger environment scenes that align with the project’s artistic and technical…"
-    },
-    {
-      "id": "tencent-llm-agent-research-intern-london-uk",
-      "title": "LLM Agent Research Intern",
-      "company": "Tencent",
-      "location": "London, UK",
-      "region": "London",
-      "remote": false,
-      "level": "Intern",
-      "language": false,
-      "discipline": "Other",
-      "salaryMin": null,
-      "salaryMax": null,
-      "posted": "2026-10-15T09:35:00.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5928717673?utm_medium=api&utm_source=47351df2",
-      "source": "Adzuna",
-      "description": "About the Hiring Team Level Infinite is Tencent’s global gaming brand. It is a global game publisher offering a comprehensive network of services for games, development teams, and studios around the world. We are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play while building a community that fosters inclusivity,…"
     },
     {
       "id": "bulkhead-junior-videographer-derby",
