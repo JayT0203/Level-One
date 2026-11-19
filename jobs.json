@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-19T07:26:59.769Z",
-  "count": 14,
+  "updated": "2026-11-19T20:38:11.062Z",
+  "count": 15,
   "jobs": [
+    {
+      "id": "manchester-metropolitan-university-junior-games-artist-uk",
+      "title": "Junior Games Artist",
+      "company": "Manchester Metropolitan University",
+      "location": "UK",
+      "region": "",
+      "remote": false,
+      "level": "Junior",
+      "language": false,
+      "discipline": "Art",
+      "salaryMin": null,
+      "salaryMax": 6071,
+      "posted": "2026-11-18T17:15:27.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5970581756?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": "Job Description The current opportunity is available for current Manchester Met students, to apply you must be based in the UK for the duration of the role. The School of Computing and Mathematics , in partnership with the National Football Museum, is seeking a creative and enthusiastic Junior Game Artist to contribute to an exciting educational game project. In this role, you will create visual…"
+    },
     {
       "id": "manchester-metropolitan-university-junior-games-developer-uk",
       "title": "Junior Games Developer",
@@ -13,7 +30,7 @@
       "language": false,
       "discipline": "Programming",
       "salaryMin": null,
-      "salaryMax": 5,
+      "salaryMax": 56795,
       "posted": "2026-11-16T17:05:34.000Z",
       "url": "https://www.adzuna.co.uk/jobs/details/5967998720?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
@@ -30,7 +47,7 @@
       "language": false,
       "discipline": "Design",
       "salaryMin": null,
-      "salaryMax": 59,
+      "salaryMax": 5,
       "posted": "2026-11-16T17:05:34.000Z",
       "url": "https://www.adzuna.co.uk/jobs/details/5967998716?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
@@ -49,7 +66,7 @@
       "salaryMin": 35000,
       "salaryMax": 45000,
       "posted": "2026-11-16T14:01:12.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835443?se=Yla5gOrj8RGvgY6X7R7yfQ&utm_medium=api&utm_source=47351df2&v=9CCC574B249FCD6A31CC98F63395AEF8D66C19A5",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835443?se=ciJGCFnk8RGxFJ2qbXBvog&utm_medium=api&utm_source=47351df2&v=9CCC574B249FCD6A31CC98F63395AEF8D66C19A5",
       "source": "Adzuna",
       "description": ".NET Developer, Graduate / Junior - Computer Gaming Company - London (Tech stack: Graduate / Junior .NET Developer, .NET 10.0, ASP.NET Core, C# 14, Azure, Angular 21, Vue.js, TypeScript, Multithreading, RESTful, ASP.NET Core Web API, EF Core 10.0, Programmer, Full Stack Engineer, Architect, Graduate / Junior .NET Developer) Having sold over 100 million games consoles and over 500 million games…"
     },
