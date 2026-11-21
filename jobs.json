@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-21T07:08:17.549Z",
-  "count": 14,
+  "updated": "2026-11-21T19:16:03.358Z",
+  "count": 15,
   "jobs": [
+    {
+      "id": "the-pok-mon-company-international-associate-product-marketing-manager-video-games-uk",
+      "title": "Associate Product Marketing Manager, Video Games",
+      "company": "The Pokémon Company International",
+      "location": "UK",
+      "region": "",
+      "remote": false,
+      "level": "Junior",
+      "language": false,
+      "discipline": "Community",
+      "salaryMin": null,
+      "salaryMax": 5,
+      "posted": "2026-11-20T17:15:35.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5973122416?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": "Get to know The Pokémon Company International The Pokémon Company International manages the Pokémon property outside of Asia and is responsible for brand management, licensing and marketing, the Pokémon Trading Card Game, the animated TV series, home entertainment, and the official Pokémon website. Pokémon was launched in Japan in 1996 and today is one of the most popular children's entertainment…"
+    },
     {
       "id": "the-pok-mon-company-associate-product-marketing-manager-video-games-london-uk",
       "title": "Associate Product Marketing Manager, Video Games",
@@ -30,7 +47,7 @@
       "language": false,
       "discipline": "Art",
       "salaryMin": null,
-      "salaryMax": 5,
+      "salaryMax": 65445,
       "posted": "2026-11-18T17:15:27.000Z",
       "url": "https://www.adzuna.co.uk/jobs/details/5970581756?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
@@ -49,7 +66,7 @@
       "salaryMin": 35000,
       "salaryMax": 45000,
       "posted": "2026-11-16T14:01:12.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835443?se=TjcbOXrl8RGfX4kwY6HxKw&utm_medium=api&utm_source=47351df2&v=9CCC574B249FCD6A31CC98F63395AEF8D66C19A5",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835443?se=1ENL49_l8RG_KtyIdOPD2A&utm_medium=api&utm_source=47351df2&v=9CCC574B249FCD6A31CC98F63395AEF8D66C19A5",
       "source": "Adzuna",
       "description": ".NET Developer, Graduate / Junior - Computer Gaming Company - London (Tech stack: Graduate / Junior .NET Developer, .NET 10.0, ASP.NET Core, C# 14, Azure, Angular 21, Vue.js, TypeScript, Multithreading, RESTful, ASP.NET Core Web API, EF Core 10.0, Programmer, Full Stack Engineer, Architect, Graduate / Junior .NET Developer) Having sold over 100 million games consoles and over 500 million games…"
     },
