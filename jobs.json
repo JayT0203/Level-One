@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-25T08:33:53.373Z",
-  "count": 9,
+  "updated": "2026-11-25T21:42:30.333Z",
+  "count": 10,
   "jobs": [
+    {
+      "id": "realityjam-junior-game-developer-uk",
+      "title": "Junior Game Developer",
+      "company": "RealityJam",
+      "location": "UK",
+      "region": "",
+      "remote": false,
+      "level": "Junior",
+      "language": false,
+      "discipline": "Programming",
+      "salaryMin": null,
+      "salaryMax": null,
+      "posted": "2026-11-25T15:06:50.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5978582668?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": "A registered apprenticeship that ends with a certificate and prepares you for a Unity Associate exam. Work spans gameplay programming, modelling and tech art on a shipped multiplayer project. What you will do Write basic gameplay code for story-driven content using existing systems in Unity Create, optimize and render 3D assets, mostly from an existing asset library Implement, test and debug…"
+    },
     {
       "id": "noir-net-developer-graduate-junior-monument-central-london",
       "title": ".NET Developer, Graduate / Junior",
