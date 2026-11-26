@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T21:42:30.333Z",
-  "count": 10,
+  "updated": "2026-11-26T08:17:41.798Z",
+  "count": 11,
   "jobs": [
     {
       "id": "realityjam-junior-game-developer-uk",
@@ -18,6 +18,23 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5978582668?utm_medium=api&utm_source=47351df2",
       "source": "Adzuna",
       "description": "A registered apprenticeship that ends with a certificate and prepares you for a Unity Associate exam. Work spans gameplay programming, modelling and tech art on a shipped multiplayer project. What you will do Write basic gameplay code for story-driven content using existing systems in Unity Create, optimize and render 3D assets, mostly from an existing asset library Implement, test and debug…"
+    },
+    {
+      "id": "moelis-investment-banking-associate-real-estate-gaming-lodging-leisure-new-york-lincoln",
+      "title": "Investment Banking Associate, Real Estate, Gaming, Lodging & Leisure",
+      "company": "Moelis",
+      "location": "New York, Lincoln",
+      "region": "East Midlands",
+      "remote": false,
+      "level": "Junior",
+      "language": false,
+      "discipline": "Other",
+      "salaryMin": null,
+      "salaryMax": null,
+      "posted": "2026-11-25T15:05:34.000Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5978572514?utm_medium=api&utm_source=47351df2",
+      "source": "Adzuna",
+      "description": "The right person is an experienced banker who can own financial models and guide junior analysts while working directly with senior bankers and clients. What you will do Build and review valuation models like DCF and LBOs Analyze sector trends to support client recommendations Prepare presentations and transaction documents for clients Support execution of M&An and financing deals Direct and…"
     },
     {
       "id": "noir-net-developer-graduate-junior-monument-central-london",
