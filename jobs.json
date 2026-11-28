@@ -1,24 +1,7 @@
 {
-  "updated": "2026-11-27T21:17:58.382Z",
-  "count": 11,
+  "updated": "2026-11-28T07:49:14.082Z",
+  "count": 10,
   "jobs": [
-    {
-      "id": "gaming-laboratories-international-junior-payroll-accountant-emeia-uk",
-      "title": "Junior Payroll Accountant EMEIA",
-      "company": "Gaming Laboratories International",
-      "location": "UK",
-      "region": "",
-      "remote": false,
-      "level": "Junior",
-      "language": false,
-      "discipline": "Other",
-      "salaryMin": null,
-      "salaryMax": null,
-      "posted": "2026-11-26T10:54:04.000Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5979427176?utm_medium=api&utm_source=47351df2",
-      "source": "Adzuna",
-      "description": "Job Description : Junior Payroll Accountant Office based Bangor, North Wales Reports to: Senior Finance Manager, EMEIA Who We Are With over 33 years in the industry, Gaming Laboratories International is the global leader in the testing and certification of gaming devices and systems. We are proud of our stability and our history of world-class customer service delivery to more than 475…"
-    },
     {
       "id": "realityjam-junior-game-developer-uk",
       "title": "Junior Game Developer",
